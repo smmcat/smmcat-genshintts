@@ -1,7 +1,7 @@
 {
   "name": "koishi-plugin-smmcat-genshintts",
   "description": "果咩原神TTS语音，支持多人对话",
-  "version": "0.0.1",
+  "version": "0.0.6",
   "main": "lib/index.js",
   "typings": "lib/index.d.ts",
   "files": [
@@ -9,13 +9,11 @@
     "dist"
   ],
   "license": "MIT",
-  "scripts": {},
   "keywords": [
     "chatbot",
     "koishi",
     "plugin"
   ],
-  "devDependencies": {},
   "peerDependencies": {
     "koishi": "^4.17.6"
   }
